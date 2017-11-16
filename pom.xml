@@ -2,14 +2,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>com.fd</groupId>
-        <artifactId>fd_service</artifactId>
-        <version>2017.11.0</version>
-    </parent>
 
-    <artifactId>fd_rest</artifactId>
-    <name>fd_rest</name>
+    <groupId>com.axonactive</groupId>
+    <version>2017.11.17-devday</version>
+    <artifactId>erp-micro</artifactId>
+    <name>erp-micro</name>
     <packaging>war</packaging>
 
     <properties>
